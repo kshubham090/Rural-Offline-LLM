@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gyan</string>
+    <string name="app_tagline">ज्ञान — Your Offline AI</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_title">ज्ञान में आपका स्वागत है</string>
+    <string name="onboarding_subtitle">Unlimited AI for agriculture, UPSC, and banking exams — works without internet.</string>
+    <string name="onboarding_privacy">This app stores all data on your device. Ads are shown only when internet is available, with your consent.</string>
+    <string name="onboarding_consent_label">I agree to show ads when internet is available (keeps this app free)</string>
+    <string name="onboarding_continue">Continue</string>
+
+    <!-- Download -->
+    <string name="download_title">Downloading AI Models</string>
+    <string name="download_subtitle">One-time download. After this, everything works offline.</string>
+    <string name="download_wifi_warning">We recommend Wi-Fi. This download is ~8.5 GB.</string>
+    <string name="download_start">Start Download</string>
+    <string name="download_resume">Resume</string>
+    <string name="download_complete">Download Complete</string>
+    <string name="download_open_app">Open Gyan</string>
+
+    <!-- Chat -->
+    <string name="chat_hint_text">Type in Hindi or English…</string>
+    <string name="chat_hint_voice">Tap mic and speak…</string>
+    <string name="chat_listening">Listening…</string>
+    <string name="chat_thinking">Thinking…</string>
+    <string name="chat_out_of_domain_en">I don\'t have enough context for this right now. Once you\'re connected to the internet, I\'ll fetch the answer for you.</string>
+    <string name="chat_out_of_domain_hi">मुझे इस सवाल का जवाब नहीं पता। जैसे ही आप इंटरनेट से जुड़ेंगे, मैं आपको जवाब दूंगा।</string>
+
+    <!-- Disclaimer -->
+    <string name="disclaimer_education">This app provides study assistance only. Not affiliated with UPSC, IBPS, SBI, SSC, or any government body. Verify answers from official sources before exams.</string>
+    <string name="disclaimer_agriculture">Farming advice is general guidance only. Consult your local KVK or agriculture officer for decisions affecting your livelihood.</string>
+</resources>

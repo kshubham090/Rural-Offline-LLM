@@ -3,7 +3,10 @@
     "allow": [
       "Bash(git config *)",
       "Bash(gh auth *)",
-      "WebFetch(domain:github.com)"
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "WebFetch(domain:www.meity.gov.in)",
+      "WebFetch(domain:en.wikipedia.org)"
     ]
   }
 }
