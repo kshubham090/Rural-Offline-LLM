@@ -1,0 +1,12 @@
+requests>=2.32.0
+beautifulsoup4>=4.12.0
+trafilatura>=1.12.0
+pdfplumber>=0.11.0
+pypdf>=4.3.0
+selenium>=4.25.0
+webdriver-manager>=4.0.0
+pandas>=2.2.0
+tqdm>=4.66.0
+langdetect>=1.0.9
+ftfy>=6.2.0
+regex>=2024.9.11

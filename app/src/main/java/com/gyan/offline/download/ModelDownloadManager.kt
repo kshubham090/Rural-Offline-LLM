@@ -13,10 +13,21 @@ import java.util.concurrent.TimeUnit
 
 data class ModelSpec(
     val name: String,
-    val url: String,
+    val url: String,       // HuggingFace URL — only used for one-time Wi-Fi download
     val fileName: String,
     val expectedBytes: Long,
 )
+
+/**
+ * Why HuggingFace URL?
+ * The APK itself is <150 MB (Play Store limit). The model is ~8 GB.
+ * It is downloaded ONCE on first launch over Wi-Fi, then the app works
+ * 100% offline forever. HF is just a reliable free CDN for large files.
+ *
+ * No internet at all? Users can sideload the GGUF manually:
+ *   adb push qwen3-14b-gyan-q4_k_m.gguf /sdcard/Android/data/com.gyan.offline/files/models/
+ * The app detects existing files and skips download automatically.
+ */
 
 data class DownloadProgress(
     val modelName: String,
