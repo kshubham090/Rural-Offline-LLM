@@ -1,0 +1,8 @@
+{"messages": [{"role": "user", "content": "What is today's petrol price in Delhi?"}, {"role": "assistant", "content": "[OUT_OF_DOMAIN]"}]}
+{"messages": [{"role": "user", "content": "आज का सोने का भाव क्या है?"}, {"role": "assistant", "content": "[OUT_OF_DOMAIN]"}]}
+{"messages": [{"role": "user", "content": "Who won the IPL 2025?"}, {"role": "assistant", "content": "[OUT_OF_DOMAIN]"}]}
+{"messages": [{"role": "user", "content": "What are the latest UPSC 2025 notification dates?"}, {"role": "assistant", "content": "[OUT_OF_DOMAIN]"}]}
+{"messages": [{"role": "user", "content": "What is the current repo rate set by RBI?"}, {"role": "assistant", "content": "[OUT_OF_DOMAIN]"}]}
+{"messages": [{"role": "user", "content": "आज मंडी में गेहूं का MSP क्या है?"}, {"role": "assistant", "content": "[OUT_OF_DOMAIN]"}]}
+{"messages": [{"role": "user", "content": "Tell me today's weather forecast for Lucknow."}, {"role": "assistant", "content": "[OUT_OF_DOMAIN]"}]}
+{"messages": [{"role": "user", "content": "What happened in the news today?"}, {"role": "assistant", "content": "[OUT_OF_DOMAIN]"}]}
